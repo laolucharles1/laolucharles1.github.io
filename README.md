@@ -41,3 +41,22 @@ a:hover {
 color: #4B9CD3;
 background-color: #13294B;
 }
+.main-container {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+} 
+
+
+  
