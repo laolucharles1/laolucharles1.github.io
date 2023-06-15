@@ -41,6 +41,7 @@ a:hover {
 color: #4B9CD3;
 background-color: #13294B;
 }
+
 .main-container {
   max-width: 300px;
   margin-left: auto;
@@ -72,5 +73,47 @@ This course studies operations research decision-making techniques and data anal
 ## Optimization
 
 
+-	Break Even Analysis
+-	Linear Programming
+- Integer Programming
+-	Non-Linear Programming
+-	Goal Programming
 
+  </div>
+  <div class="column">
+  
+## Data analysis
+
+- Descriptive statistics
+- Visualizing Data
+- Correlation Functions
+- Percentile Functions
+- Linear regression
+    
+  </div>
+</div>   
+ 
+
+# Key Resources
+
+<div class="row">
+  <div class="column">
+  
+* Instructor: **[Mario Giacomazzo](http://www.supermariogiacomazzo.com/)**
+
+* Instructional Assistant: **[Bongsoo Yi](http://stat-or.unc.edu/people/graduate-students-department)**
+
+* Syllabus: **[Section 1](Syllabi/305.001 Syllabus.pdf)**
+
+* Description: This course studies operations research decision-making techniques and data analysis using spreadsheets. The topics in the course will be divided into two broad types of problems: optimization and data analysis. Specific topics include:
+    * Break even analysis
+    * Linear programming
+    * Integer programming
+    * Non-linear programming
+    * Goal programming
+    * Descriptive statistics
+    * Visualizing data
+    * Correlation functions
+    * Percentile functions
+    * Linear regression
   
