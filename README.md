@@ -1,5 +1,5 @@
 ---
-title: '**STOR 305: Spreadsheet Models**'
+title: '**Paul Charles Professional Website**'
 geometry: margin=2
 output:
   html_document:
