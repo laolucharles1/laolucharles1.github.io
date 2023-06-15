@@ -1,5 +1,5 @@
 ---
-title: '**Paul 'Laolu' Charles Professional Website**'
+title: '**STOR 305: Spreadsheet Models**'
 geometry: margin=2
 output:
   html_document:
@@ -16,5 +16,9 @@ output:
 
 div {
 color: #13294B;
+}
+
+#TOC {
+  color: #4B9CD3;
 }
 
