@@ -1,5 +1,5 @@
 ---
-title: '**PAUL 'LAOLU' CHARLES PROFESSIONAL WEBSITE **'
+title: '**PAUL CHARLES PROFESSIONAL WEBSITE **'
 geometry: margin=2
 output:
   html_document:
