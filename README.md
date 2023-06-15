@@ -1,5 +1,5 @@
 ---
-title: '**STOR 305: Spreadsheet Models**'
+title: '**PAUL 'LAOLU' CHARLES PROFESSIONAL WEBSITE **'
 geometry: margin=2
 output:
   html_document:
