@@ -126,7 +126,7 @@ This course studies operations research decision-making techniques and data anal
   
   </div>
   <div class="column">
-  <img src="UNC_Logo.png" width="200px" height="auto">
+  <img src="IMG_1215.JPG" width="200px" height="auto">
   </div>
 </div>    
   
