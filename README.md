@@ -116,4 +116,17 @@ This course studies operations research decision-making techniques and data anal
     * Correlation functions
     * Percentile functions
     * Linear regression
+ 
+* University Approved Absence: **[Online Form](https://unc-ch.formstack.com/forms/university_approved_absence_request?sso=5f3154c3179f5)**
+
+* Zoom Links:
+    - **[Lecture:](https://unc.zoom.us/j/99041806715?pwd=VFlqaVppSFgzZEljb2Q0N3pDWEU2dz09)** MWF, 9:05AM-9:55AM (PW: doctor305)
+    - **[Dr. 305 Office Hours:](https://unc.zoom.us/j/93136528616)** T, 9:00AM - 1:00PM
+    - **[IA Office Hours:](https://zoom.us/j/94999812866?pwd=VE41L0NXRTBwa043THl2ck9SeFZHZz09)** MW, 10AM - 11AM (PW: bZJ71S)
+  
+  </div>
+  <div class="column">
+  <img src="UNC_Logo.png" width="200px" height="auto">
+  </div>
+</div>    
   
