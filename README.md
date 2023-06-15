@@ -22,3 +22,22 @@ color: #13294B;
   color: #4B9CD3;
 }
 
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  color: #4B9CD3;
+  background-color: #13294B;
+}
+
+a:link {
+    color: #4B9CD3;
+    text-decoration: none;
+}
+
+a:visited {
+        text-decoration: none;
+color: #4B9CD3;
+
+}
+a:hover {
+color: #4B9CD3;
+background-color: #13294B;
+}
