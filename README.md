@@ -58,5 +58,19 @@ background-color: #13294B;
   clear: both;
 } 
 
+  </style>
+
+
+
+# **Overview**
+
+This course studies operations research decision-making techniques and data analysis using spreadsheets. The topics in the course will be divided into two broad types of problems: optimization and data analysis. Specific topics include:
+
+<div class="row">
+  <div class="column">
+  
+## Optimization
+
+
 
   
