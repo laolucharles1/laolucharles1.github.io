@@ -70,13 +70,14 @@ This course studies operations research decision-making techniques and data anal
 <div class="row">
   <div class="column">
   
-## Optimization
+## Statisitcal Expertise
 
--	Break Even Analysis
--	Linear Programming
-- Integer Programming
--	Non-Linear Programming
--	Goal Programming
+-	Exploratory Data Analysis
+-	Data Visualization
+- Predictive Modeling Construction
+-	Machine Learning implementation
+-	Decision Analytics
+- Computer Vision implementation
 
   </div>
   <div class="column">
